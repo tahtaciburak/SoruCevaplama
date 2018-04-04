@@ -1,0 +1,6 @@
+Who was prime minister of the UK for most of the Second World War?,history,2,Adolf Hitler,Winston Churcill,Henry Vill,George W.Bush,0
+World War I began in which year?,history,4,1923,1938,1917,1914,0
+Adolf Hitler was born in which country?,history,2,France,Germany,Austria,Hungary,0
+The Magna Carta was published by the King of which country?,history,3,France,Austria,Italy,England,0
+The Hundred Yearch War was fought between what two countries?,history,ASD,Italy and Carthage,England and Germany,France and England,Spain and France
+
